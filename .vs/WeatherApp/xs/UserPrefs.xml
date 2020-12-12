@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{1350C608-B1E2-4970-802D-4EB829B80A38}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.192.168.57.109:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApp.iOS/Info.plist">
+    <Files>
+      <File FileName="WeatherApp/Constants.cs" Line="6" Column="103" />
+      <File FileName="WeatherApp/WeatherData.cs" />
+      <File FileName="WeatherApp/RestService.cs" />
+      <File FileName="WeatherApp/MainPage.xaml" />
+      <File FileName="WeatherApp.Android/Resources/values/styles.xml" />
+      <File FileName="WeatherApp.iOS/Info.plist" />
+      <File FileName="WeatherApp.Android/MainActivity.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
+      <File FileName="WeatherApp.iOS/Entitlements.plist" />
+      <File FileName="WeatherApp/AssemblyInfo.cs" />
+      <File FileName="WeatherApp/App.xaml.cs" />
+      <File FileName="WeatherApp/App.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherApp" expanded="True">
+            <Node name="WeatherApp" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="WeatherApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+</Properties>
